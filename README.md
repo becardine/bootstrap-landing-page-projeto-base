@@ -6,7 +6,7 @@ criar uma landing page utilizando os recursos disponíveis do bootstrap.
 
 ### Screenshot
 
- ![](/projeto-base/src/img/screenshot.png)
+ ![](/src/img/screenshot.png)
 
 
 ## Author
